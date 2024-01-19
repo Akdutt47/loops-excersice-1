@@ -1,0 +1,14 @@
+/Users/ak47/Desktop/Repos_folder/LoopsExercise1/LoopsExercise1/bin/Debug/net6.0/LoopsExercise1
+/Users/ak47/Desktop/Repos_folder/LoopsExercise1/LoopsExercise1/bin/Debug/net6.0/LoopsExercise1.deps.json
+/Users/ak47/Desktop/Repos_folder/LoopsExercise1/LoopsExercise1/bin/Debug/net6.0/LoopsExercise1.runtimeconfig.json
+/Users/ak47/Desktop/Repos_folder/LoopsExercise1/LoopsExercise1/bin/Debug/net6.0/LoopsExercise1.dll
+/Users/ak47/Desktop/Repos_folder/LoopsExercise1/LoopsExercise1/bin/Debug/net6.0/LoopsExercise1.pdb
+/Users/ak47/Desktop/Repos_folder/LoopsExercise1/LoopsExercise1/obj/Debug/net6.0/LoopsExercise1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ak47/Desktop/Repos_folder/LoopsExercise1/LoopsExercise1/obj/Debug/net6.0/LoopsExercise1.AssemblyInfoInputs.cache
+/Users/ak47/Desktop/Repos_folder/LoopsExercise1/LoopsExercise1/obj/Debug/net6.0/LoopsExercise1.AssemblyInfo.cs
+/Users/ak47/Desktop/Repos_folder/LoopsExercise1/LoopsExercise1/obj/Debug/net6.0/LoopsExercise1.csproj.CoreCompileInputs.cache
+/Users/ak47/Desktop/Repos_folder/LoopsExercise1/LoopsExercise1/obj/Debug/net6.0/LoopsExercise1.dll
+/Users/ak47/Desktop/Repos_folder/LoopsExercise1/LoopsExercise1/obj/Debug/net6.0/refint/LoopsExercise1.dll
+/Users/ak47/Desktop/Repos_folder/LoopsExercise1/LoopsExercise1/obj/Debug/net6.0/LoopsExercise1.pdb
+/Users/ak47/Desktop/Repos_folder/LoopsExercise1/LoopsExercise1/obj/Debug/net6.0/LoopsExercise1.genruntimeconfig.cache
+/Users/ak47/Desktop/Repos_folder/LoopsExercise1/LoopsExercise1/obj/Debug/net6.0/ref/LoopsExercise1.dll

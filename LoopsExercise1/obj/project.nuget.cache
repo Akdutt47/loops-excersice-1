@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VqiOjvcTh9XbiysRXicbbNmNU1vYMrfLMd1t9MSu9TBGdMBWjiRcuOPQyeCp8vRtOACDRBGdJWFH2CH3Eg27ew==",
+  "success": true,
+  "projectFilePath": "/Users/ak47/Desktop/Repos_folder/LoopsExercise1/LoopsExercise1/LoopsExercise1.csproj",
+  "expectedPackageFiles": [
+    "/Users/ak47/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.22/microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "/Users/ak47/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.22/microsoft.netcore.app.host.osx-arm64.6.0.22.nupkg.sha512",
+    "/Users/ak47/.nuget/packages/microsoft.netcore.app.ref/6.0.22/microsoft.netcore.app.ref.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
